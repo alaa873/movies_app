@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const MoviesCard = ({ mov }) => {
     const handelClicK = (e) => {
 
-        window.location.reload()
+       // window.location.reload()
     }
     return (
 
